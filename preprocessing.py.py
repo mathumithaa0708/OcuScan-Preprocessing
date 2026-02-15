@@ -2,7 +2,7 @@ import os
 import cv2
 import numpy as np
 
-input_path = r"C:\Users\niven\OneDrive\Desktop\Ocuscan\data\DRIVE\Images\Traning"
+input_path = os.path.join("data", "DRIVE", "Images", "Traning")
 
 import os
 
